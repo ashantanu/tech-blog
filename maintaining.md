@@ -16,6 +16,8 @@ nbdev_export
 pip install -e '.[dev]'
 ```
 
+Also need to follow [this](https://nbdev.fast.ai/migrating.html#edit-workflow-permissions) due to migration to new verison 
+
 make changes
 ```
 nbdev_prepare
