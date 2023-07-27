@@ -22,7 +22,7 @@ nbdev_prepare
 nbdev_preview
 ```
 
-Push to github
+Push to github to deploy
 ```
 git add .
 git commit -m 'adding new doc' # Update this text with your own message
