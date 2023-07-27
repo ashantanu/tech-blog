@@ -10,14 +10,15 @@ pip install jupyterlab-quarto
 nbdev_install_hooks
 ```
 
-building notebooks
+building notebooks (only first time?)
 ```
 nbdev_export
 pip install -e '.[dev]'
 ```
 
-preview docs
+make changes
 ```
+nbdev_prepare
 nbdev_preview
 ```
 
