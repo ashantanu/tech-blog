@@ -1,5 +1,6 @@
 # how to maintain this?
 
+## First time setup
 Basic Setup (only first time)
 ```
 git clone https://github.com/ashantanu/tech-blog.git
@@ -18,7 +19,7 @@ pip install -e '.[dev]'
 
 Also need to follow [this](https://nbdev.fast.ai/migrating.html#edit-workflow-permissions) due to migration to new verison 
 
-make changes
+## make changes
 ```
 nbdev_prepare
 nbdev_docs
