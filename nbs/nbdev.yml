@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tech-blog"
+  site-url: "https://ashantanu.github.io/tech-blog"
+  description: "tech blogging space, let's go"
+  repo-branch: main
+  repo-url: "https://github.com/ashantanu/tech-blog"
