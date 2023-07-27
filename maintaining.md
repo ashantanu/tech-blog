@@ -19,6 +19,7 @@ pip install -e '.[dev]'
 make changes
 ```
 nbdev_prepare
+nbdev_docs
 nbdev_preview
 ```
 
