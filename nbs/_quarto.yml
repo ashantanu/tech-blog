@@ -10,6 +10,7 @@ format:
 website:
   twitter-card: true
   open-graph: true
+  google-analytics: "GT-KFT2NXK"
   repo-actions: [issue]
   navbar:
     background: primary
