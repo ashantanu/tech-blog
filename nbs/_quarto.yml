@@ -17,10 +17,6 @@ website:
     search: true
   sidebar:
     style: floating
-
-metadata-files: [nbdev.yml, sidebar.yml]
-
-website:
   comments:
     giscus:
       repo: ashantanu/tech-blog
@@ -29,3 +25,5 @@ website:
       category-id: DIC_kwDOKARy684CYV2A
       reactions-enabled: 1
       loading: lazy
+
+metadata-files: [nbdev.yml, sidebar.yml]
