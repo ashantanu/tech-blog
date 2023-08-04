@@ -6,3 +6,4 @@ website:
         contents:
           - ML/00_intro.ipynb
           - ML/01_llm_output_parser.ipynb
+          - ML/02_old_blogs.ipynb
