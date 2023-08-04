@@ -49,6 +49,8 @@ Custom Domain > add subdomain > save
 # other tips
 comments with : https://quarto.org/docs/reference/projects/websites.html#giscus
 disable notebook execution with : a raw cell at top with below
+best alternative themes: lux, darkly ( goes in _quatro.yml>format>html>theme)
+change highlighting: https://quarto.org/docs/output-formats/html-code#highlighting
 ```
 ---
 skip_exec: true
