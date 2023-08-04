@@ -22,6 +22,7 @@ Also need to follow [this](https://nbdev.fast.ai/migrating.html#edit-workflow-pe
 ## make changes
 ```
 conda activate apps
+nbdev_install_hooks
 nbdev_prepare
 nbdev_docs
 nbdev_preview
@@ -30,7 +31,7 @@ nbdev_preview
 Push to github to deploy
 ```
 git add .
-git commit -m 'adding new doc' # Update this text with your own message
+git commit -m ':bug: fix'
 git push
 ```
 
