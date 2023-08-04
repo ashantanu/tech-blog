@@ -23,7 +23,7 @@ website:
       repo-id: R_kgDOKARy6w
       category: General
       category-id: DIC_kwDOKARy684CYV2A
-      reactions-enabled: 1
+      reactions-enabled: true
       loading: lazy
 
 metadata-files: [nbdev.yml, sidebar.yml]
