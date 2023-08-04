@@ -44,3 +44,14 @@ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pag
 
 final step is a bit confusing, but it is https://github.com/ashantanu/tech-blog/settings/pages
 Custom Domain > add subdomain > save
+
+
+# other tips
+comments with : https://quarto.org/docs/reference/projects/websites.html#giscus
+disable notebook execution with : a raw cell at top with below
+```
+---
+skip_exec: true
+skip_showdoc: true
+---
+```

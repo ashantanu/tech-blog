@@ -4,7 +4,7 @@
 
 ## Origin Story
 
-Throughout my life so far, I have put up little digital spaces around
+In a galaxy not so far away, I have put up little digital spaces around
 the internet. Be it social media or poorly designed websites like this.
 I interact with each space in different capacities but always try to
 make things interesting. This is the latest in my attempt to put my

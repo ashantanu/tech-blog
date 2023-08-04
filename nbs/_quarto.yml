@@ -19,3 +19,8 @@ website:
     style: floating
 
 metadata-files: [nbdev.yml, sidebar.yml]
+
+website:
+  comments:
+    giscus:
+      repo: quarto-dev/quarto-web
