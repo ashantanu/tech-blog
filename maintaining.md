@@ -22,10 +22,9 @@ Also need to follow [this](https://nbdev.fast.ai/migrating.html#edit-workflow-pe
 ## make changes
 ```
 conda activate apps
-nbdev_clean
-nbdev_install_hooks
-nbdev_prepare
 nbdev_docs
+nbdev_clean
+nbdev_prepare
 nbdev_preview
 ```
 
