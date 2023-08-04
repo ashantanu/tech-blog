@@ -21,6 +21,7 @@ Also need to follow [this](https://nbdev.fast.ai/migrating.html#edit-workflow-pe
 
 ## make changes
 ```
+conda activate apps
 nbdev_prepare
 nbdev_docs
 nbdev_preview
@@ -32,3 +33,13 @@ git add .
 git commit -m 'adding new doc' # Update this text with your own message
 git push
 ```
+
+## deploying under subdomain
+create subdomain record in wix
+https://support.wix.com/en/article/connecting-a-subdomain-to-an-external-resource
+
+add it to githubpages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
+
+final step is a bit confusing, but it is https://github.com/ashantanu/tech-blog/settings/pages
+Custom Domain > add subdomain > save

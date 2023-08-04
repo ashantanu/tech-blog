@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "tech-blog"
+  title: "Chaos Garden"
   site-url: "https://ashantanu.github.io/tech-blog"
   description: "tech blogging space, lets go"
   repo-branch: main
