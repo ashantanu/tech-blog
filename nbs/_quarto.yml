@@ -12,8 +12,7 @@ highlight-style: nord
 website:
   title: "Chaos Garden by Shantanu"
   description: "A blog about the world of data science and machine learning."
-  image: assets/images/banner2.png
-  # favicon: assets/images/favicon.ico
+  favicon: assets/images/favicon.ico
   twitter-card: true
   open-graph: true
   google-analytics: "GT-KFT2NXK"
