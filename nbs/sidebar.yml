@@ -2,8 +2,10 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - 03_website_tutorial.ipynb
       - section: ML
         contents:
           - ML/00_intro.ipynb
           - ML/01_llm_output_parser.ipynb
           - ML/02_old_blogs.ipynb
+          - ML/03_ml_tweet_graveyard.ipynb
