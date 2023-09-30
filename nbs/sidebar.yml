@@ -3,6 +3,7 @@ website:
     contents:
       - index.ipynb
       - 03_website_tutorial.ipynb
+      - figma-plugin.ipynb
       - section: ML
         contents:
           - ML/00_intro.ipynb
@@ -10,3 +11,4 @@ website:
           - ML/02_old_blogs.ipynb
           - ML/03_ml_tweet_graveyard.ipynb
           - ML/04_rlhf.ipynb
+          - ML/05_instruction_tuning.ipynb
