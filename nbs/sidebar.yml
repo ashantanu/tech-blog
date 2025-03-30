@@ -4,6 +4,9 @@ website:
       - index.ipynb
       - 03_website_tutorial.ipynb
       - figma-plugin.ipynb
+      - section: Interview-prep
+        contents:
+          - Interview-prep/01_Python_Basics.ipynb
       - section: ML
         contents:
           - ML/00_intro.ipynb
