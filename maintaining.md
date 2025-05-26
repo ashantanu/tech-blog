@@ -31,7 +31,7 @@ nbdev_preview
 Push to github to deploy
 ```
 git add .
-git commit -m ':bug: fix'
+git commit -m ':sparkes: new blog on claude'
 git push
 ```
 
