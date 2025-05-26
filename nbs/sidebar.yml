@@ -16,3 +16,4 @@ website:
           - ML/04_rlhf.ipynb
           - ML/05_instruction_tuning.ipynb
           - ML/06_claude_prompt_breakdown.ipynb
+          - ML/07_artists_to_playlist.ipynb
