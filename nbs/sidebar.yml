@@ -17,3 +17,6 @@ website:
           - ML/05_instruction_tuning.ipynb
           - ML/06_claude_prompt_breakdown.ipynb
           - ML/07_artists_to_playlist.ipynb
+      - section: projects
+        contents:
+          - projects/01_panda_tracker.ipynb
