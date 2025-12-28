@@ -23,7 +23,6 @@ git push
 
 See [maintaining.md](../maintaining.md) for:
 - First-time setup instructions
-- Deploying under subdomain
 - Theme and styling tips
 - Disabling notebook execution
 
